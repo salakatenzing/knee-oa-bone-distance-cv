@@ -1,0 +1,39 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.exe
+cartilage_thickness
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+
+# Output files
+test_distance_vector.csv
+octave_results.csv
+cuda_results.csv
+*.csv
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Profiling
+*.nvvp
+*.nvprof
+*.qdrep
+
+# Temporary files
+*.tmp
+*.log
