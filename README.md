@@ -105,43 +105,6 @@ Models evaluated:
 
 ---
 
-## Repository Structure
-Beautiful. You’re building this the right way — clean structure first, then clarity.
-
-Below is the finished continuation starting from ## Repository Structure, fully formatted for Markdown and consistent with what you’ve already written.
-
-You can paste this directly under your current content.
-
-## Repository Structure
 
 
 
-knee-oa-bone-distance-cv/
-├── data/
-│ ├── masks/ # Binary femur + tibia masks
-│ ├── labels.csv # KL grade / OA labels
-│ └── README.md # Data usage notes
-│
-├── preprocessing/
-│ ├── slice_selection.py # Valid slice range detection
-│ └── distance_measurement.py # Inter-bone distance algorithms
-│
-├── feature_extraction/
-│ └── build_feature_vectors.py # Construct fixed-length vectors
-│
-├── models/
-│ ├── train_svm.py
-│ ├── train_rf.py
-│ ├── train_mlp.py
-│ ├── train_lightgbm.py
-│ └── train_rnnab.py
-│
-├── evaluation/
-│ └── cross_validation.py # 10-fold evaluation pipeline
-│
-├── results/
-│ ├── metrics_summary.csv
-│ └── model_comparison.md
-│
-├── requirements.txt
-└── README.md
