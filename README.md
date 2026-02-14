@@ -4,6 +4,13 @@ Computer vision pipeline for automated knee osteoarthritis (OA) severity predict
 
 This project evaluates whether geometric bone-distance features can serve as an indirect proxy for cartilage thickness in OA classification.
 
+Documents for Download: 
+
+📄 [Research Paper](Paper for 671 Knee Osteo Arthritis.docx)  
+📊 [Presentation Slides](Knee OA Classification Presentation.pptx)
+
+Computer vision pipeline for automated knee osteoarthritis (OA) severity prediction...
+
 
 ---
 
