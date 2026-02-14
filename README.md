@@ -90,11 +90,8 @@ Where:
 
 Models evaluated:
 
-- Support Vector Machine (SVM)
 - Random Forest
 - Multilayer Perceptron (MLP)
-- Gradient Boosting (LightGBM)
-- Residual Neural Network with Attention Block (RNNAB)
 
 **Evaluation method:**  
 10-fold cross-validation
