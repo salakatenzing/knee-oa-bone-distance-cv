@@ -7,7 +7,7 @@ This project evaluates whether geometric bone-distance features can serve as an 
 Documents for Download: 
 
 📊 [Presentation Slides](./Knee%20OA%20Classification%20Presentation.pptx)  
-📄 [Final Paper](./Final%20Paper%20CV.docx)
+📄 [Final Paper](./Paper%20for%20671%20Knee%20Osteo%20Arthritis.docx)
 
 Computer vision pipeline for automated knee osteoarthritis (OA) severity prediction...
 
