@@ -1,8 +1,5 @@
 # Knee Osteoarthritis Classification Using Bone Distance
-<img width="545" height="253" alt="image" src="https://github.com/user-attachments/assets/f188347e-823e-457a-9fee-f6acb8793dc2" /> <img width="545" height="253" alt="image" src="https://github.com/user-attachments/assets/c54b80a4-351b-4b6c-adef-b54524f9bb0c" />
-
-
-
+<img width="545" height="253" alt="image" src="https://github.com/user-attachments/assets/f188347e-823e-457a-9fee-f6acb8793dc2" />
 
 Computer vision pipeline for automated knee osteoarthritis (OA) severity prediction using femur–tibia bone distance measurements extracted from 3D knee MRI scans.
 
